@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Gustavo Maximiano 🖐️👋
 
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Gm_BR/)
+
 ![Gustavo Maximiano GitHub stats](https://github-readme-stats.vercel.app/api?username=devgustavom&show_icons=true&theme=radical)
 
 ## Tecnologia que estou estudando
